@@ -1,8 +1,9 @@
 {
   "name": "misty-cabin",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "雾木小屋 Misty Cabin — Rusty Lake–inspired point-and-click escape room",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
